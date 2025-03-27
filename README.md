@@ -1,4 +1,11 @@
-# Hola, soy Javier, gusto en conocerte!
+<div id="header" align="center">
+
+</div>
+
+<h1>
+  Hola, soy Javier, gusto en conocerte!
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 En este repositorio, estan los proyectos que desarrolle en el Bootcamp de Ciencia de Datos de Tripleten, los cuales en resumen, comprenden desde python básico, ETL con python, EDA con python, visualización de datos, hasta aprendizaje de maquina(Machine Learning) supervisado y no supervisado.
 
@@ -29,6 +36,12 @@ Estoy comprometido con aplicar mis conocimientos en analisis de datos y aprendiz
 - Redes neuronales y Vision Computacional.
   
 ### :hammer_and_wrench: Lenguajes y herramientas
+
+
+Si necesitas contactarme, te comparte mi información de contacto: 
+
+  **E-mail: vidal.javier.r@gmail.com**<br>
+  **Telefono: +56 9 5405 0839**
 
 <div id="header" align="left">
   
