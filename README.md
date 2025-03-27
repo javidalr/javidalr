@@ -24,6 +24,7 @@ Estoy comprometido con aplicar mis conocimientos en analisis de datos y aprendiz
 - Visualizacion de datos: Matplotlib, Seaborn, Power BI
 - Web Scraping: BeautifoulSoup
 
+
 ## 💡 Habilidades Cognitivas
 
 - Fuertes habilidades analíticas para resolver problemas complejos.
@@ -36,14 +37,13 @@ Estoy comprometido con aplicar mis conocimientos en analisis de datos y aprendiz
 - Modelos avanzados de IA, con arquitectura BERT y transformers.
 - Framework de Deep Learning: PyTorch.
 - Redes neuronales y Vision Computacional.
-  
-### :hammer_and_wrench: Lenguajes y herramientas
-
 
 Si necesitas contactarme, te comparte mi información de contacto: 
 
   **E-mail: vidal.javier.r@gmail.com**<br>
   **Telefono: +56 9 5405 0839**
+
+### :hammer_and_wrench: Lenguajes y herramientas
 
 <div id="header" align="left">
   
