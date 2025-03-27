@@ -32,13 +32,13 @@ Estoy
 
 <div id="header" align="left">
 
-    [![My Skills](https://skillicons.dev/icons?i=py,r,postgres,mysql,md,vscode,git,github,powershell,anaconda,html,css,js,notion,discord&theme=dark&perline=2)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=py,r,postgres,mysql,md,vscode,git,github,powershell,anaconda,html,css,js,notion,discord)](https://skillicons.dev)
 
 </div>
 
 ### :fire: Mis Estadísticas  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=javidalr&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-nine-flax.vercel.app?user=javidalr&theme=dark&border_radius=15&locale=es&date_format=j%20M%5B%20Y%5D&card_width=496)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javidalr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
