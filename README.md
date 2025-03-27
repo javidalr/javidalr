@@ -32,7 +32,7 @@ Estoy comprometido con aplicar mis conocimientos en analisis de datos y aprendiz
 - Gran capacidad de aprendizaje y adaptable a nuevas tecnológias.
 
 
-### 🌱 Aprendiendo actualmente
+## 🌱 Aprendiendo actualmente
 
 - Modelos avanzados de IA, con arquitectura BERT y transformers.
 - Framework de Deep Learning: PyTorch.
