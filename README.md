@@ -9,7 +9,7 @@
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-En este repositorio, estan los proyectos que desarrolle en el Bootcamp de Ciencia de Datos de Tripleten, los cuales en resumen, comprenden desde python básico, ETL con python, EDA con python, visualización de datos, hasta aprendizaje de maquina(Machine Learning) supervisado y no supervisado.
+En este repositorio, estan los proyectos que he desarrollado y desarrollare en mi aprendizaje como analista y cientifico de datos, los cuales comprenden desde python básico, ETL con python, EDA con python, visualización de datos, hasta aprendizaje de maquina(Machine Learning) supervisado y no supervisado.
 
 ## 🚀 Sobre mí
 
@@ -19,16 +19,16 @@ Estoy comprometido con aplicar mis conocimientos en analisis de datos y aprendiz
 
 ## 🛠 Habilidades y Herramientas
 
-- Lenguajes: Python, R, SQL
+- Lenguajes: Python, SQL
 - Ciencia de datos y aprendizaje de maquina: Pandas, Numpy, Scipy, Scikit-Learn
-- Visualizacion de datos: Matplotlib, Seaborn, Power BI, Tableau
-- Web Scraping: BeautifoulSoup, Selenium, Scrapy
+- Visualizacion de datos: Matplotlib, Seaborn, Power BI
+- Web Scraping: BeautifoulSoup
 
 ## 💡 Habilidades Cognitivas
 
 - Fuertes habilidades analíticas para resolver problemas complejos.
-- Comunicador eficaz, para la colaboración con equipos multifuncionales.
-- Adaptable a nuevas tecnologías y con gran capacidad de aprendizaje.
+- Comunicación eficaz, para la colaboración con equipos multifuncionales.
+- Gran capacidad de aprendizaje y adaptable a nuevas tecnológias.
 
 
 ### 🌱 Aprendiendo actualmente
