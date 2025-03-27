@@ -32,7 +32,7 @@ Estoy
 
 <div id="header" align="left">
 
-    [![My Skills](https://skillicons.dev/icons?i=py,r,postgres,mysql,md,vscode,git,github,powershell,anaconda,html,css,js,notion,discord)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 </div>
 
