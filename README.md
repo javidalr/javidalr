@@ -6,7 +6,7 @@ En este repositorio, estan los proyectos que desarrolle en el Bootcamp de Cienci
 
 Soy **Ingeniero Civil Industrial**, de la Universidad Tecnológica Metropolitana de Chile (UTEM), tengo experiencia en el area comercial del rubro financiero-bancario, y actualmente me encuentro realizando una transcición de carrera, hacia el area de analisis y la ciencia de datos. Mi pasion por los datos, los gráficos y el gusto por la programación, me impulsaron a aprender y profundizar en la ciencia de datos y el machine learning.
 
-Estoy 
+Estoy comprometido con aplicar mis conocimientos en analisis de datos y aprendizaje automático para generar soluciones eficientes y azutomotizadas que mejoren productos y/o servicios.
 
 ## 🛠 Habilidades y Herramientas
 
@@ -31,8 +31,8 @@ Estoy
 ### :hammer_and_wrench: Lenguajes y herramientas
 
 <div id="header" align="left">
-
-    [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,postgres,mysql,git,github,vscode,pycharm,anaconda,html,css,js&perline=6)](https://skillicons.dev)
 
 </div>
 
