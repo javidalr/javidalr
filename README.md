@@ -2,6 +2,12 @@
     <img decoding="async" src="https://github.com/javidalr/javidalr/blob/main/banner.png" width="1200"/>
 
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvidalr)
+  <a href="https://github.com/javidalr" target="_blank">
+    [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javidalr/javidalr/blob/main/README_en.md)
+  </a>
+
+<h6>Check out this repository in English by clicking the GitHub logo</h6>  
+  
 </div>
 
 <h1>
