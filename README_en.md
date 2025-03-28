@@ -5,6 +5,7 @@
   <a href="https://github.com/javidalr" target="_blank">
    [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javidalr)
   </a>
+  <h6>Revisa este repositorio en español, clickeando el logo de GitHub</h6>  
 </div>
 
 <h1>
