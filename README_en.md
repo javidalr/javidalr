@@ -62,8 +62,8 @@ Feel free to reach out to me — I’m always open to collaborating, networking,
 ### :hammer_and_wrench: Tools & Technologies
 
 <div id="header" align="left">
-
-    [![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,postgres,mysql,git,github,vscode,pycharm,anaconda,html,css,js&perline=6)](https://skillicons.dev)
+   
+  [![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,postgres,mysql,git,github,vscode,pycharm,anaconda,html,css,js&perline=6)](https://skillicons.dev)
 
 </div>
 
