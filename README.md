@@ -1,57 +1,75 @@
 <div id="header" align="center">
     <img decoding="async" src="https://github.com/javidalr/javidalr/blob/main/banner.png" width="1200"/>
-  
+
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvidalr)
 </div>
 
 <h1>
-  Hola, soy Javier, gusto en conocerte!
+  ¡Hola, soy Javier! ¡Un gusto conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-En este repositorio, estan los proyectos que he desarrollado y desarrollare en mi aprendizaje como analista y cientifico de datos, los cuales comprenden desde python básico, ETL con python, EDA con python, visualización de datos, hasta aprendizaje de maquina(Machine Learning) supervisado y no supervisado.
+¡Bienvenido a mi repositorio!  
+Aquí encontrarás los proyectos que he desarrollado (y seguiré desarrollando) durante mi camino en el mundo del análisis y la ciencia de datos. Estos proyectos abarcan desde Python básico, procesos ETL, análisis exploratorio de datos (EDA), visualización, hasta aprendizaje automático supervisado y no supervisado.
+
+---
 
 ## 🚀 Sobre mí
 
-Soy **Ingeniero Civil Industrial**, de la Universidad Tecnológica Metropolitana de Chile (UTEM), tengo experiencia en el area comercial del rubro financiero-bancario, y actualmente me encuentro realizando una transcición de carrera, hacia el area de analisis y la ciencia de datos. Mi pasión por los datos, los gráficos y el gusto por la programación, me impulsaron a aprender y profundizar en la ciencia de datos y el machine learning.
+Soy **Ingeniero Civil Industrial** de la Universidad Tecnológica Metropolitana de Chile (UTEM), con experiencia profesional en el área comercial del sector financiero y bancario. Actualmente, estoy en proceso de transición hacia el mundo de la **Ciencia de Datos**, impulsado por mi pasión por los datos, las visualizaciones y la programación.
 
-Estoy comprometido con aplicar mis conocimientos en analisis de datos y aprendizaje automático para generar soluciones eficientes y azutomotizadas que mejoren productos y/o servicios.
+Estoy comprometido a utilizar los datos para resolver problemas reales, aplicando **análisis de datos** y **modelos de aprendizaje automático** para crear soluciones eficientes, automatizadas y de alto impacto que mejoren productos y servicios.
 
-## 🛠 Habilidades y Herramientas
+---
 
-- Lenguajes: Python, SQL
-- Ciencia de datos y aprendizaje de maquina: Pandas, Numpy, Scipy, Scikit-Learn
-- Visualizacion de datos: Matplotlib, Seaborn, Power BI
-- Web Scraping: BeautifoulSoup
+## 🛠 Habilidades Técnicas
 
+- **Lenguajes:** Python, SQL  
+- **Manipulación y análisis de datos:** Pandas, NumPy, SciPy  
+- **Machine Learning:** Scikit-Learn  
+- **Visualización de datos:** Matplotlib, Seaborn, Power BI  
+- **Web Scraping:** BeautifulSoup  
+- **Herramientas de desarrollo:** Git, GitHub, VS Code, PyCharm, Anaconda  
+- **Bases de datos:** PostgreSQL, MySQL
 
-## 💡 Habilidades Cognitivas
+---
 
-- Fuertes habilidades analíticas para resolver problemas complejos.
-- Comunicación eficaz, para la colaboración con equipos multifuncionales.
-- Gran capacidad de aprendizaje y adaptable a nuevas tecnológias.
+## 💡 Habilidades Blandas
 
+- Gran capacidad analítica para resolver problemas complejos  
+- Comunicación efectiva para el trabajo colaborativo con equipos multidisciplinarios  
+- Autodidacta, adaptable y con gran capacidad de aprendizaje
 
-## 🌱 Aprendiendo actualmente
+---
 
-- Modelos avanzados de IA, con arquitectura BERT y transformers.
-- Framework de Deep Learning: PyTorch.
-- Redes neuronales y Vision Computacional.
+## 🌱 Actualmente Aprendiendo
 
-Si necesitas contactarme, te comparte mi información de contacto: 
+- **Modelos avanzados de IA** con arquitecturas BERT y Transformers  
+- **Frameworks de Deep Learning:** PyTorch  
+- **Redes Neuronales** y **Visión por Computador**
 
-  **E-mail: vidal.javier.r@gmail.com**<br>
-  **Telefono: +56 9 5405 0839**
+---
 
-### :hammer_and_wrench: Lenguajes y herramientas
+## 📬 Contacto
+
+Si quieres contactarme, estoy siempre abierto a colaborar, conversar o participar en proyectos interesantes:
+
+**📧 Correo:** vidal.javier.r@gmail.com  
+**📱 Teléfono:** +56 9 5405 0839
+
+---
+
+### :hammer_and_wrench: Tecnologías y Herramientas
 
 <div id="header" align="left">
-  
+
   [![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,postgres,mysql,git,github,vscode,pycharm,anaconda,html,css,js&perline=6)](https://skillicons.dev)
 
 </div>
 
-### :fire: Mis Estadísticas  
+---
+
+### :fire: Estadísticas de GitHub
 
 [![GitHub Streak](https://github-readme-streak-stats-nine-flax.vercel.app?user=javidalr&theme=dark&border_radius=15&locale=es&date_format=j%20M%5B%20Y%5D&card_width=496)](https://git.io/streak-stats)
 
