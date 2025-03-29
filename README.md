@@ -81,4 +81,4 @@ Si quieres contactarme, estoy siempre abierto a colaborar, conversar o participa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javidalr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javidalr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javidalr&locale=es&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
