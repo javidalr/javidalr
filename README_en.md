@@ -75,7 +75,7 @@ Feel free to reach out to me — I’m always open to collaborating, networking,
 
 ### :fire: GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-nine-flax.vercel.app?user=javidalr&theme=dark&border_radius=15&locale=es&date_format=j%20M%5B%20Y%5D&card_width=496)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-nine-flax.vercel.app?user=javidalr&theme=dark&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=496)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javidalr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
