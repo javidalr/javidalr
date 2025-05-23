@@ -35,7 +35,7 @@ Estoy comprometido a utilizar los datos para resolver problemas reales, aplicand
 - **Machine Learning:** Scikit-Learn  
 - **Visualización de datos:** Matplotlib, Seaborn, Power BI  
 - **Web Scraping:** BeautifulSoup  
-- **Herramientas de desarrollo:** Git, GitHub, VS Code, PyCharm, Anaconda  
+- **Herramientas de desarrollo:** Git, GitHub, VS Code  
 - **Bases de datos:** PostgreSQL, MySQL
 
 ---
