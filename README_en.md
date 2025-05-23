@@ -33,7 +33,7 @@ I am committed to leveraging data to solve real-world problems, and to applying 
 - **Machine Learning**: Scikit-Learn  
 - **Data Visualization**: Matplotlib, Seaborn, Power BI  
 - **Web Scraping**: BeautifulSoup  
-- **Development Tools**: Git, GitHub, VS Code, PyCharm, Anaconda  
+- **Development Tools**: Git, GitHub, VS Code
 - **Databases**: PostgreSQL, MySQL
 
 ---
