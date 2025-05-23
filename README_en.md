@@ -67,7 +67,7 @@ Feel free to reach out to me — I’m always open to collaborating, networking,
 
 <div id="header" align="left">
    
-  [![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,postgres,mysql,git,github,vscode,pycharm,anaconda,notion,html,css,js&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,sklearn,postgres,mysql,git,github,vscode,notion,html,css&perline=6)](https://skillicons.dev)
 
 </div>
 
