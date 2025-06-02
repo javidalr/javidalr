@@ -50,9 +50,10 @@ Estoy comprometido a utilizar los datos para resolver problemas reales, aplicand
 
 ## 🌱 Actualmente Aprendiendo
 
-- **Modelos avanzados de IA** con arquitecturas BERT y Transformers  
-- **Frameworks de Deep Learning:** PyTorch  
-- **Redes Neuronales** y **Visión por Computador**
+- **Modelos avanzados de IA** 
+- **Aprendizaje no supervisado** Clusters - Reducción de dimensionalidad
+- **Frameworks de Deep Learning:** PyTorch 
+- **Redes Neuronales**
 
 ---
 
